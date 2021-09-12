@@ -1,4 +1,0 @@
-== Concept
-
-1. Only one instance created
-
