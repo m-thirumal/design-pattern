@@ -9,8 +9,7 @@
 
 1. Creational - how objects are created
 
-include::src/main/java/in/thirumal/creational/singleton/singleton.adoc[]
-
+	* include::src/main/java/in/thirumal/creational/singleton/singleton.adoc[Singleton]
 	* Builder
 	* Prototype
 	* Factory
