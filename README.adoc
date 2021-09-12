@@ -10,6 +10,7 @@
 1. Creational - how objects are created
 
 include::src/main/java/in/thirumal/creational/singleton/singleton.adoc[]
+
 	* Builder
 	* Prototype
 	* Factory
