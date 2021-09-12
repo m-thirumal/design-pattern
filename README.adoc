@@ -8,7 +8,8 @@
 === Pattern Groups
 
 1. Creational - how objects are created
-	* Singleton
+
+include::src/main/java/in/thirumal/creational/singleton/singleton.adoc[]
 	* Builder
 	* Prototype
 	* Factory
